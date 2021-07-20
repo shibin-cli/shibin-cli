@@ -1,7 +1,7 @@
 ### Hi there, I'm Shibin 👋
 
 I am a Web developer
-* Deep passion for front end technology
+* Deep passion for front end technology.
 * I like to use Vue, React, Nodejs and so on to develop various applications.
 
 **Languages and Tools:**  
